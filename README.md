@@ -62,7 +62,7 @@ li a:hover {
     <option value="Male">Male</option>
     <option value="Female">Female</option>
   </select>
-  <input type="submit">
+
 </form>
 
 <form action="/action_page.php">
@@ -72,7 +72,7 @@ li a:hover {
     <option value="26-35">26-35</option>
     <option value="Over 35">Over 35</option>
   </select>
-  <input type="submit">
+
 </form>
 <form action="/action_page.php">
   <label for="Phone">Choose a product:</label>
@@ -82,7 +82,7 @@ li a:hover {
     <option value="Samsung">Samsung</option>
     <option value="Oppo">Oppo</option>
   </select>
-  <input type="submit">
+
 </form>
 
 <form action="/action_page.php">
@@ -93,18 +93,18 @@ li a:hover {
     <option value="Kangemi">Kangemi</option>
     <option value="Greenfields">Greenfields</option>
   </select>
-  <input type="submit">
+
 </form>
 
 <form action="/action_page.php">
   <label for="Payment mode">Payment mode:</label>
   <select id="Payment mode" name="payment mode">
     <option value="M-pesa">M-pesa</option>
-    <option value="Airtel momey">Airtel money</option>
+    <option value="Airtel money">Airtel money</option>
     <option value="PayPal">PayPal</option>
     <option value="Credit/Debit card">Credit/Debit card</option>
   </select>
-  <input type="submit">
+
 </form>
 
 <form action="/action_page.php">
@@ -115,8 +115,8 @@ li a:hover {
     <option value="Red">Red</option>
     <option value="White">White</option>
   </select>
-  <input type="submit">
 </form>
+
 
 <form action="/action_page.php">
   <label for="">Rate shop services :</label>
@@ -125,7 +125,7 @@ li a:hover {
     <option value="Moderate">Moderate</option>
     <option value="Slow">Slow</option>
   </select>
-  <input type="submit">
+
 </form>
 
 <form action="/action_page.php">
