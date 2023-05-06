@@ -84,7 +84,7 @@ li a:hover {
   <label for="Payment mode">Payment mode:</label>
   <select id="Payment mode" name="payment mode">
     <option value="M-pesa">M-pesa</option>
-    <option value="Airtel momey">Airtel momey</option>
+    <option value="Airtel momey">Airtel money</option>
     <option value="PayPal">PayPal</option>
     <option value="Credit/Debit card">Credit/Debit card</option>
   </select>
