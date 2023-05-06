@@ -1,4 +1,20 @@
 <html>
+  <head>
+
+<style>
+
+body {
+
+  background-color: coral;  
+
+}  
+
+</style>
+
+</head>
+
+<body>
+
 <head>
 <style>
 ul {
