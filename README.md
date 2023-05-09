@@ -45,11 +45,11 @@ li a:hover {
 <body>
 <body>
 <ul>
-<li><a href="#home">Home</a></li>
-  <li><a href="#products">products</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
-  <li><a href="#search">search</a></li>
+<li><a href="#Home">Home</a></li>
+  <li><a href="#Products">Products</a></li>
+  <li><a href="#Contact">Contact</a></li>
+  <li><a href="#About">About</a></li>
+  <li><a href="#">Sign Up>Sign Up</a></li>
 
 
 </ul>
